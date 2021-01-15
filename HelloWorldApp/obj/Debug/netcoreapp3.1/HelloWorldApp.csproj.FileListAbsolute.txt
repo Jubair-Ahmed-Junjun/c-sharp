@@ -1,0 +1,13 @@
+C:\Users\jubair ahmed junjun\source\repos\HelloWorldApp\HelloWorldApp\bin\Debug\netcoreapp3.1\HelloWorldApp.exe
+C:\Users\jubair ahmed junjun\source\repos\HelloWorldApp\HelloWorldApp\bin\Debug\netcoreapp3.1\HelloWorldApp.deps.json
+C:\Users\jubair ahmed junjun\source\repos\HelloWorldApp\HelloWorldApp\bin\Debug\netcoreapp3.1\HelloWorldApp.runtimeconfig.json
+C:\Users\jubair ahmed junjun\source\repos\HelloWorldApp\HelloWorldApp\bin\Debug\netcoreapp3.1\HelloWorldApp.runtimeconfig.dev.json
+C:\Users\jubair ahmed junjun\source\repos\HelloWorldApp\HelloWorldApp\bin\Debug\netcoreapp3.1\HelloWorldApp.dll
+C:\Users\jubair ahmed junjun\source\repos\HelloWorldApp\HelloWorldApp\bin\Debug\netcoreapp3.1\HelloWorldApp.pdb
+C:\Users\jubair ahmed junjun\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.csprojAssemblyReference.cache
+C:\Users\jubair ahmed junjun\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.AssemblyInfoInputs.cache
+C:\Users\jubair ahmed junjun\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.AssemblyInfo.cs
+C:\Users\jubair ahmed junjun\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.csproj.CoreCompileInputs.cache
+C:\Users\jubair ahmed junjun\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.dll
+C:\Users\jubair ahmed junjun\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.pdb
+C:\Users\jubair ahmed junjun\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.genruntimeconfig.cache
